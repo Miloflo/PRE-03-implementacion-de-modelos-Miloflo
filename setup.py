@@ -1,4 +1,4 @@
-"""Package installesssssr"""
+"""Package installessssssr"""
 
 from setuptools import find_packages, setup  # type: ignore
 
